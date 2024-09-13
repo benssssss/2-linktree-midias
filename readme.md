@@ -2,7 +2,7 @@
 
 ## Link Tree focada no estudo de responsividade
 
-[<img src="./foto-pro-readme.png">](https://benssssss.github.io/linktree-midias/)
+[<img src="./gif-pro-readme.gif">](https://benssssss.github.io/linktree-midias/)
 
 ## Tecnologias utilizadas
 - HTML
