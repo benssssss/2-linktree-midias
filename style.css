@@ -1,11 +1,11 @@
 body {
     background-color: #AE76A6;
-    max-height: 500px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    max-height: 100vh;
 }
 
 .background-total {
