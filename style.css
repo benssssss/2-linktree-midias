@@ -1,8 +1,11 @@
 body {
     background-color: #AE76A6;
-    margin-top: 150px;
-    min-height: 320px;
     max-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 .background-total {
